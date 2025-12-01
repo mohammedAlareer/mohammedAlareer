@@ -9,10 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>📫 Connect with me:</strong> 
-  <a href="https://twitter.com/akasrai_">Twitter</a> • 
-  <a href="https://akasrai.github.io/">Portfolio</a> • 
-  <a href="https://github.com/akasrai">GitHub</a>
+
 </p>
 
 ---
