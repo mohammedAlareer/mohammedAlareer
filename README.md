@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <strong>💻 Currently Building:</strong> <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz App</a> | 
   <strong>🌱 Learning & Improving:</strong> Modern <strong>React & Next.js</strong> workflows
 </p>
 
@@ -43,16 +42,6 @@
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akasrai&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akasrai&theme=tokyonight" />
-</p>
-
----
 
 <h2 align="center">✨ Let's Build Something Amazing!</h2>
 <p align="center">
