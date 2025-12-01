@@ -1,117 +1,115 @@
 <!-- ========================================================= -->
-<!--                  PROFESSIONAL GITHUB PROFILE              -->
+<!--                PALESTINIAN PREMIUM PROFILE                -->
 <!-- ========================================================= -->
 
-<h1 align="center" style="font-weight:700; font-size:42px;">
-  <span style="color:#0EA5E9;">Software Engineer</span> & AI-Driven Developer
+<br/>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" width="90" style="border-radius:8px; box-shadow:0 0 12px rgba(0,0,0,0.4);" />
+</p>
+
+<h1 align="center" style="font-weight:900; font-size:40px;">
+  Full-Stack Developer  
+  <br/>
+  <span style="font-size:18px; font-weight:400;">Crafting Clean • Modern • Human-Centered Software</span>
 </h1>
 
-<p align="center" style="font-size:16px; max-width:650px;">
-  I build high-quality, scalable, and secure software solutions with a focus on 
-  modern architectures, cloud-native systems, and intelligent automation powered by AI.
+<br/>
+
+<p align="center" style="max-width:650px; font-size:16px;">
+  Developer from <strong>Palestine 🇵🇸</strong> — building elegant, high-quality, performance-focused web applications.
+  I combine strong frontend aesthetics with reliable backend logic to deliver professional digital experiences.
+</p>
+
+<br/><br/>
+
+<!-- ======================= SKILLS ======================= -->
+## 🧩 Technical Skills
+
+<div align="center">
+
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Frontend** | HTML, CSS, JavaScript, TypeScript |
+| **Frameworks** | React, Next.js, TailwindCSS |
+| **Backend** | Python |
+| **Core Skills** | Clean Code, UI/UX Awareness, Responsive Web Design |
+| **Java** | OOP • Data Structures • Problem Solving |
+
+</div>
+
+<br/><br/>
+
+<!-- ======================= BADGES ======================= -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,next,tailwind,python" height="90"/>
+
+</div>
+
+<br/><br/>
+
+<!-- ======================= PROJECTS ======================= -->
+## 🚀 Highlight Projects
+
+### 🔹 **Modern Portfolio (Next.js + Tailwind)**
+Clean, minimal, fast — a professional-grade personal website.  
+**Demo:** *your link here*  
+**Repo:** *your repo here*
+
+---
+
+### 🔹 **React Storefront**
+E-commerce UI with reusable components and global state.  
+**Repo:** *your repo here*
+
+---
+
+### 🔹 **Python Automation Toolkit**
+Smart scripts that automate repetitive tasks efficiently.  
+**Repo:** *your repo here*
+
+<br/><br/>
+
+<!-- ======================= STATS ======================= -->
+## 📊 GitHub Insights
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="150"/>
+</div>
+
+<br/><br/>
+
+<!-- ======================= PALESTINIAN TOUCH ======================= -->
+## 🇵🇸 A Developer From Palestine
+
+<p align="center" style="font-size:15px; opacity:0.9;">
+  I aim to represent Palestinian talent in the global tech world  
+  through clean work, thoughtful design, and consistent learning.
 </p>
 
 <br/>
 
-<!-- ========================= SUMMARY ======================== -->
-## 🔹 Professional Summary
-
-I'm a dedicated software engineer specializing in **Backend Development**, **Cloud Systems**,  
-and **AI-Enhanced DevSecOps pipelines**.  
-I consistently deliver clean, maintainable, and production-ready software designed for real-world use.
-
-- ✔️ Strong focus on secure & scalable systems  
-- ✔️ Experience with modern web technologies  
-- ✔️ Familiar with cloud-native DevOps practices  
-- ✔️ Passion for AI-driven engineering and automation  
-- ✔️ Committed to constant learning and improvement  
-
-<br/>
-
-<!-- ========================= SKILLS ========================== -->
-## 🔹 Technical Expertise
-
-### **Core Skills**
-- Backend Development (Python • Node.js • REST • APIs)
-- Frontend (React • Next.js • TypeScript)
-- Cloud & DevOps (Docker • CI/CD • GitHub Actions)
-- Databases (PostgreSQL • MongoDB)
-- AI & Automation (LLM Agents • Prompt Engineering)
-
-### **Tools & Technologies**
+<!-- ======================= CONTACT ======================= -->
+## 📬 Contact
 
 <div align="center">
 
-| Category | Technologies |
-|---------|--------------|
-| **Languages** | Python, JavaScript, TypeScript |
-| **Frameworks** | Next.js, React, Express |
-| **Cloud** | Docker, Vercel, Railway, Netlify |
-| **Databases** | PostgreSQL, MongoDB |
-| **DevOps** | GitHub Actions, CI/CD, Testing |
-| **Security** | JWT, OAuth, API Hardening |
-| **AI** | LangChain, Agents, Vector Databases |
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
-<br/>
+<br/><br/>
 
-<!-- ========================= STATS ========================== -->
-## 🔹 GitHub Performance
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
-</div>
-
-<br/>
-
-<!-- ========================= LANG STATS ====================== -->
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" />
-</div>
-
-<br/>
-
-<!-- ========================= PROJECTS ======================== -->
-## 🔹 Featured Projects
-
-### 🔸 **Enterprise-Grade DevSecOps AI Framework**
-A full smart security system for CI/CD pipelines using multi-agent AI, contextual awareness, and adaptive decision engines.  
-🔗 *Repository (Private or Coming Soon)*
-
----
-
-### 🔸 **Next.js Ecommerce Platform**
-A scalable e-commerce store with real-time cart state, secure API routes, and responsive design.  
-👉 **Live Demo:** your-demo-link  
-👉 **Repo:** your-repository-link  
-
----
-
-### 🔸 **Intelligent Task Automation Agent**
-Python-based AI agent that automates workflows, integrates APIs, and executes logic dynamically.  
-👉 **Repo:** your-repository-link  
-
-<br/>
-
-<!-- ========================= CONTACT ========================= -->
-## 🔹 Let's Connect
-
-If you are looking for a developer who builds *clean, scalable, and intelligent systems*,  
-I’d be glad to connect.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-FFFFFF?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
-
-</div>
-
-<br/>
-
-<p align="center" style="font-size:14px; opacity:0.8;">
-  © YOUR_NAME — Professional Software Engineer
+<p align="center" style="opacity:0.7; font-size:14px;">
+  Designed with dignity — Powered by Code — From Palestine 🇵🇸
 </p>
-
